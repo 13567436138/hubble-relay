@@ -1,1 +1,1 @@
-FROM quay.io/cilium/hubble-relay:v1.13.0
+FROM quay.io/cilium/hubble-relay:v1.14.4
